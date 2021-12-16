@@ -5,7 +5,7 @@ It helps solve the problem of keeping your day organized. It also keeps track of
 ## Usage
 Simply run the webpage and input your daily tasks in the corresponding time slot. 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/images/work-day-planner-sh.png)
     ```
 
 ## License
@@ -30,3 +30,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Deployed link
+https://robertsjn2000.github.io/work-day-planner/
