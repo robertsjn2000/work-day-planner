@@ -21,7 +21,7 @@ inputControl.val(value)
 }
 // This function uses if else statements to change the color of the text boxes based on the current time of day.
 function highLightDay(){
-    var currentHour = moment().format("hh")
+    var currentHour = moment().format("HH")
     $(".time").each(function(){
         var trContainer = $(this)
         var th = trContainer.find("th")
